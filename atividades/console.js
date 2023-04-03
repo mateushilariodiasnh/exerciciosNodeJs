@@ -1,0 +1,1 @@
+console.log("console é variavel global do NodeJs")
