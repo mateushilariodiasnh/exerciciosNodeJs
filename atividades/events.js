@@ -5,4 +5,4 @@ events.on('saySomething', (message) => {
     console.log('Eu esperava mais kkkk', message)
 })
 /* events.once ouve apenas uma vez */
-events.emit('saySomething', "senhor 
+events.emit('saySomething', "senhor NodeJs")
